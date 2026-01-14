@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mirzapur Season 1 - Ep 1",
+    "url": "https://archive.org/download/mirzapur-s1/ep1.mp4",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/Mirzapur_poster.jpg",
+    "category": "Action"
+  },
+  {
+    "name": "Mirzapur Season 1 - Ep 2",
+    "url": "https://archive.org/download/mirzapur-s1/ep2.mp4",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/Mirzapur_poster.jpg",
+    "category": "Action"
+  },
+  {
+    "name": "Family Man S1 - Ep 1",
+    "url": "https://example.com/familyman_s1e1.mp4",
+    "logo": "https://example.com/familyman.jpg",
+    "category": "Drama"
+  }
+]
