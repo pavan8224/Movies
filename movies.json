@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pathaan",
+    "url": "https://archive.org/download/pathaan-movie/pathaan.mp4",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
+    "category": "Action"
+  },
+  {
+    "name": "Jawan",
+    "url": "https://example.com/jawan.mkv",
+    "logo": "https://example.com/jawan_poster.jpg",
+    "category": "Action"
+  },
+  {
+    "name": "3 Idiots",
+    "url": "https://example.com/3idiots.mp4",
+    "logo": "https://example.com/3idiots.jpg",
+    "category": "Drama"
+  }
+]
