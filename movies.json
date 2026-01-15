@@ -16,5 +16,11 @@
     "url": "https://archive.org/download/return-of-the-kung-fu-dragon/Return%20of%20the%20Kung%20Fu%20Dragon.mp4",
     "logo": "https://archive.org/services/img/return-of-the-kung-fu-dragon",
     "category": "Action"
+  },
+  {
+  "name": "Sholay (1975)",
+  "url": "https://archive.org/download/sholay-1975/Sholay%20%281975%29.mp4",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg",
+  "category": "Bollywood Classic"
   }
 ]
