@@ -1,20 +1,48 @@
 [
   {
-    "name": "Mirzapur Season 1 - Ep 1",
-    "url": "https://archive.org/download/mirzapur-s1/ep1.mp4",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/Mirzapur_poster.jpg",
-    "category": "Action"
+    "series_name": "Mirzapur",
+    "poster": "https://link-to-poster.jpg",
+    "category": "Action",
+    "seasons": [
+      {
+        "season_name": "Season 1",
+        "episodes": [
+          {
+            "episode_name": "Episode 1: The Beginning",
+            "url": "https://server.com/mirzapur_s1_e1.mp4",
+            "duration": "45 min"
+          },
+          {
+            "episode_name": "Episode 2",
+            "url": "https://server.com/mirzapur_s1_e2.mp4",
+            "duration": "50 min"
+          }
+        ]
+      },
+      {
+        "season_name": "Season 2",
+        "episodes": [
+          {
+            "episode_name": "Episode 1",
+            "url": "https://server.com/mirzapur_s2_e1.mp4",
+            "duration": "48 min"
+          }
+        ]
+      }
+    ]
   },
   {
-    "name": "Mirzapur Season 1 - Ep 2",
-    "url": "https://archive.org/download/mirzapur-s1/ep2.mp4",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/Mirzapur_poster.jpg",
-    "category": "Action"
-  },
-  {
-    "name": "Family Man S1 - Ep 1",
-    "url": "https://example.com/familyman_s1e1.mp4",
-    "logo": "https://example.com/familyman.jpg",
-    "category": "Drama"
+    "series_name": "The Family Man",
+    "poster": "https://link-to-image.jpg",
+    "category": "Thriller",
+    "seasons": [
+      {
+        "season_name": "Season 1",
+        "episodes": [
+           { "episode_name": "Ep 1", "url": "..." },
+           { "episode_name": "Ep 2", "url": "..." }
+        ]
+      }
+    ]
   }
 ]
