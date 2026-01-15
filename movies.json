@@ -15,7 +15,7 @@
   },
   {
     "type": "playlist",
-    "url": "https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u",
+    "url": "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/movies.m3u",
     "category": "M3U Imported"
   }
 ]
