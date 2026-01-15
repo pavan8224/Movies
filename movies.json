@@ -6,9 +6,15 @@
     "category": "Action"
   },
   {
+    "type": "video",
   "name": "Sholay (1975)",
   "url": "https://archive.org/download/sholay-1975-english-subtitles/Sholay%20%281975%29%20English%20Subtitles.mp4",
   "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg",
   "category": "Bollywood Classic"
+  },
+  {
+    "type": "playlist",
+    "url": "https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-movies.m3u",
+    "category": "M3U Imported"
   }
 ]
