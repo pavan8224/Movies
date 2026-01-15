@@ -1,14 +1,20 @@
 [
   {
-    "name": "Sholay (1975)",
-    "url": "https://archive.org/details/sholay-1975-english-subtitles",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg",
+    "name": "Big Buck Bunny (Test Movie)",
+    "url": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
+    "category": "Animation"
+  },
+  {
+    "name": "Popeye: For President (Classic)",
+    "url": "https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Popeye_the_Sailor.svg/1200px-Popeye_the_Sailor.svg.png",
     "category": "Classic"
   },
   {
-    "name": "Don (Example)",
-    "url": "https://archive.org/download/don-movie-file/don.mp4",
-    "logo": "LINK_TO_POSTER",
+    "name": "Return of the Kung Fu Dragon",
+    "url": "https://archive.org/download/return-of-the-kung-fu-dragon/Return%20of%20the%20Kung%20Fu%20Dragon.mp4",
+    "logo": "https://archive.org/services/img/return-of-the-kung-fu-dragon",
     "category": "Action"
   }
 ]
