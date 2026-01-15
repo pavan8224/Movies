@@ -1,20 +1,14 @@
 [
   {
-    "name": "panchayat season 123",
-    "url": "https://1024terabox.com/s/1HpoVe8-1nDPE3gptH_vetQ",
-    "logo": "https://1024terabox.com/s/1HpoVe8-1nDPE3gptH_vetQ",
-    "category": "Action"
+    "name": "Sholay (1975)",
+    "url": "https://archive.org/download/sholay-1975/Sholay%20%281975%29.mp4",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg",
+    "category": "Classic"
   },
   {
-    "name": "Jawan",
-    "url": "https://example.com/jawan.mkv",
-    "logo": "https://example.com/jawan_poster.jpg",
+    "name": "Don (Example)",
+    "url": "https://archive.org/download/don-movie-file/don.mp4",
+    "logo": "LINK_TO_POSTER",
     "category": "Action"
-  },
-  {
-    "name": "3 Idiots",
-    "url": "https://example.com/3idiots.mp4",
-    "logo": "https://example.com/3idiots.jpg",
-    "category": "Drama"
   }
 ]
