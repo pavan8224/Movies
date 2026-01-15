@@ -1,5 +1,6 @@
 [
   {
+    "type": "video",
     "name": "Raw ( Beast) 2022 South Hindi Dubbed Full Movie ",
     "url": "https://archive.org/download/raw-beast-2022-south-hindi-dubbed-full-movie-original-hevc-1080p/Raw%20%28Beast%29%202022%20South%20Hindi%20Dubbed%20Full%20Movie%20Original%20HEVC%201080p.mp4",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3d/Beast_2022_Indian_poster.jpg",
@@ -14,7 +15,7 @@
   },
   {
     "type": "playlist",
-    "url": "https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-movies.m3u",
+    "url": "https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u",
     "category": "M3U Imported"
   }
 ]
