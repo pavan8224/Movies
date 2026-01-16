@@ -1,0 +1,8 @@
+{
+  "startapp_id": "200457625",
+  "ads_enabled": true,
+  "interstitial_interval": 5,
+  "show_banner": true,
+  "show_interstitial": true,
+  "show_rewarded": true
+}
