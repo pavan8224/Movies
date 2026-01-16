@@ -1,0 +1,18 @@
+[
+  {
+    "name": "🇮🇳 India",
+    "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+  },
+  {
+    "name": "🇺🇸 USA",
+    "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
+  },
+  {
+    "name": "⚽ Sports",
+    "url": "https://iptv-org.github.io/iptv/categories/sports.m3u"
+  },
+  {
+    "name": "🎵 Music",
+    "url": "https://iptv-org.github.io/iptv/categories/music.m3u"
+  }
+]
