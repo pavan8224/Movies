@@ -4,5 +4,6 @@
   "interstitial_interval": 5,
   "show_banner": true,
   "show_interstitial": true,
-  "show_rewarded": true
+  "show_rewarded": true,
+  "show_return_ad": true
 }
