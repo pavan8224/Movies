@@ -1,48 +1,23 @@
 [
   {
-    "series_name": "Mirzapur",
-    "poster": "https://link-to-poster.jpg",
-    "category": "Action",
-    "seasons": [
-      {
-        "season_name": "Season 1",
-        "episodes": [
-          {
-            "episode_name": "Episode 1: The Beginning",
-            "url": "https://server.com/mirzapur_s1_e1.mp4",
-            "duration": "45 min"
-          },
-          {
-            "episode_name": "Episode 2",
-            "url": "https://server.com/mirzapur_s1_e2.mp4",
-            "duration": "50 min"
-          }
-        ]
-      },
-      {
-        "season_name": "Season 2",
-        "episodes": [
-          {
-            "episode_name": "Episode 1",
-            "url": "https://server.com/mirzapur_s2_e1.mp4",
-            "duration": "48 min"
-          }
-        ]
-      }
-    ]
+    "type": "video",
+    "name": "Mirzapur S1 Ep1",
+    "url": "https://server.com/mirzapur_s1_e1.mp4",
+    "logo": "https://image.tmdb.org/mirzapur_poster.jpg",
+    "category": "Crime"
   },
   {
-    "series_name": "The Family Man",
-    "poster": "https://link-to-image.jpg",
-    "category": "Thriller",
-    "seasons": [
-      {
-        "season_name": "Season 1",
-        "episodes": [
-           { "episode_name": "Ep 1", "url": "..." },
-           { "episode_name": "Ep 2", "url": "..." }
-        ]
-      }
-    ]
+    "type": "video",
+    "name": "Mirzapur S1 Ep2",
+    "url": "https://server.com/mirzapur_s1_e2.mp4",
+    "logo": "https://image.tmdb.org/mirzapur_poster.jpg",
+    "category": "Crime"
+  },
+  {
+    "type": "video",
+    "name": "Family Man S1 Ep1",
+    "url": "https://server.com/familyman_s1_e1.mp4",
+    "logo": "https://image.tmdb.org/familyman_poster.jpg",
+    "category": "Thriller"
   }
 ]
