@@ -1,0 +1,23 @@
+[
+  {
+    "type": "video",
+    "name": "Latest Blockbuster",
+    "url": "LINK_HERE",
+    "logo": "POSTER_LINK",
+    "category": "New Arrival"
+  },
+  {
+    "type": "video",
+    "name": "Trending Series Ep1",
+    "url": "LINK_HERE",
+    "logo": "POSTER_LINK",
+    "category": "Trending"
+  },
+  {
+    "type": "video",
+    "name": "Action Movie 2024",
+    "url": "LINK_HERE",
+    "logo": "POSTER_LINK",
+    "category": "Action"
+  }
+]
