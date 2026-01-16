@@ -14,5 +14,9 @@
   {
     "name": "🎵 Music",
     "url": "https://iptv-org.github.io/iptv/categories/music.m3u"
+  },
+  {
+    "name": "Sony Kal (Bollywood Classics & Shows)",
+    "url": "https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8"
   }
 ]
