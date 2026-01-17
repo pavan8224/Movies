@@ -1,0 +1,20 @@
+[
+  {
+    "name": "🎬 Bollywood Movies (M3U)",
+    "url": "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/movies.m3u",
+    "logo": "https://img.icons8.com/color/480/movie-projector.png",
+    "category": "Playlist"
+  },
+  {
+    "name": "🚀 South Indian Dubbed",
+    "url": "https://YOUR_LINK_HERE/south.m3u",
+    "logo": "https://img.icons8.com/color/480/iron-man.png",
+    "category": "Playlist"
+  },
+  {
+    "name": "🧟 Horror Movies Collection",
+    "url": "https://YOUR_LINK_HERE/horror.json",
+    "logo": "https://img.icons8.com/color/480/ghost.png",
+    "category": "Playlist"
+  }
+]
