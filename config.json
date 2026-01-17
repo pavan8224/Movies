@@ -1,0 +1,13 @@
+{
+  "youtube": {
+    "api_url": "https://pipedapi.kavin.rocks",
+    "backup_api_url": "https://api.kavin.rocks",
+    "enable_webview_fallback": true
+  },
+  "terabox": {
+    "rapid_api_key": "YOUR_RAPID_API_KEY_HERE",
+    "rapid_api_host": "terabox-downloader-direct-download-link-generator.p.rapidapi.com",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "use_webview": false
+  }
+}
