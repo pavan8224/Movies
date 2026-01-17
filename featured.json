@@ -1,10 +1,8 @@
 [
   {
-    "type": "video",
-    "name": "Latest Blockbuster",
-    "url": "https://youtu.be/bsKdehPcelQ?si=qDeVkj9hAFFu3BOh",
-    "logo": "POSTER_LINK",
-    "category": "New Arrival"
+    "name" : "The Raja Saab 2026 Hindi Movie",
+    "url" : "https://archive.org/download/the-raja-saab_202601/The.RajaSaab.2026.1080p.V3.HDTC.Hindi-Telugu-Tamil.LiNE.HC-ESub.x264-HDHub4u.Ms.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/9/9e/The_RajaSaab_poster.jpg"
   },
   {
     "type": "video",
