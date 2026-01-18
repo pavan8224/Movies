@@ -19,18 +19,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/BHAIYYA_JI_POSTER.jpeg",
     "category": "Action"
   },
-
-  { "name" : "Sunny Deol Movie Collection",
-    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Sunny%20Deol%20Movie%20Collection.m3u"
-  },
-  {
-    "name" : "Dharmendra Film collection",
-    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/movies.m3u"
-  },
-  {
-    "name" : "Bollywood Movies Collection",
-    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Bollywood%20Movies%20Collection.m3u"
-  },
   {
     "name": "Sitaare Zameen Par (2025) – Full Hindi Movie",
     "url": "https://archive.org/download/sitaare-zameen-par-2025_202508/Sitaare%20Zameen%20Par%202025.mp4",
@@ -201,7 +189,24 @@
 
 
 
-  
+
+
+
+
+
+
+
+  { "name" : "Sunny Deol Movie Collection",
+    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Sunny%20Deol%20Movie%20Collection.m3u"
+  },
+  {
+    "name" : "Dharmendra Film collection",
+    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/movies.m3u"
+  },
+  {
+    "name" : "Bollywood Movies Collection",
+    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Bollywood%20Movies%20Collection.m3u"
+  },
   {
     "name": "23rd March 1931: Shaheed (2002)",
     "url": "https://archive.org/download/angrakshak-1995-hindi.-web.-dl.-720p.-amazon..x-264.-aac.-arabic.-esub.-by-juleyano/23rd%20March%201931%20Shaheed%20%282002%29%20Hindi.WEB.DL.480p.Amazon..AVC.x264.AAC.Esubs.BY%20Juleyano.mp4",
