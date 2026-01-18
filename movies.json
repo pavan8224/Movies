@@ -19,10 +19,17 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/BHAIYYA_JI_POSTER.jpeg",
     "category": "Action"
   },
+
+  { "name" : "Sunny Deol Movie Collection",
+    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Sunny%20Deol%20Movie%20Collection.m3u"
+  },
   {
-    "name": "Sitaare Zameen Par (2025) – Full Hindi Movie",
-    "url": "https://archive.org/download/sitaare-zameen-par-2025_202508/Sitaare%20Zameen%20Par%202025.mp4",
-    "logo": "https://upload.wikimedia.org/wikipedia/hi/4/44/Sitaare_Zameen_Par_poster.jpg"
+    "name" : "Dharmendra Film collection",
+    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/movies.m3u"
+  },
+  {
+    "name" : "Bollywood Movies Collection",
+    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Bollywood%20Movies%20Collection.m3u"
   },
   {
     "name": "Sitaare Zameen Par (2025) – Full Hindi Movie",
@@ -101,7 +108,7 @@
   },
   {
     "name" : "The Raja Saab 2026 Hindi Movie",
-    "url" : "https://archive.org/download/the-raja-saab_202601/The.RajaSaab.2026.1080p.V3.HDTC.Hindi-Telugu-Tamil.LiNE.HC-ESub.x264-HDHub4u.s.mp4",
+    "url" : "https://archive.org/download/the-raja-saab_202601/The.RajaSaab.2026.1080p.V3.HDTC.Hindi-Telugu-Tamil.LiNE.HC-ESub.x264-HDHub4u.Ms.mp4",
     "logo" : "https://upload.wikimedia.org/wikipedia/en/9/9e/The_RajaSaab_poster.jpg"
   },
   {
@@ -110,21 +117,76 @@
     "logo" : "https://images.blu-ray.com/news/upload/18404.jpg"
   },
   {
+    "name" : "12th Fail ( 2023) ",
+    "url" : "https://archive.org/download/12th-fail-2023-bollywood-hindi-movie-hevc-720p-esub/%F0%9F%8E%AC%2012th_Fail_%282023%29_Bollywood_Hindi_Movie_HEVC_720p_ESub.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/f/f2/12th_Fail_poster.jpeg"
+  },
+  {
+    "name" : "Amaran ( 2024) Hindi Dubbed Movie",
+      "url" : "https://archive.org/download/amaran-2024-hindi-dubbed-movie-480p-hdts/Amaran_%282024%29_Hindi_Dubbed_Movie_480p_HDTS.mp4",
+      "logo" : "https://upload.wikimedia.org/wikipedia/en/5/54/Amaran_2024_poster.jpg"
+  },
+  {
+    "name" : "The Great Shamsuddin Family (2025) ",
+    "url" : "https://archive.org/download/the.-great.-shamsuddin.-family/The.Great.Shamsuddin.Family.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/7/73/The_Great_Shamsuddin_Family.jpg"
+  },
+  {
+    "name" : "Home-bound(2025)",
+    "url" : "https://archive.org/download/homebound-2025-hindi-hdtc-480p-x-264-aac-hc-esub-vegamovies.is/Homebound%202025%20Hindi%20HDTC%20480p%20x264%20AAC%20HC-ESub%20Vegamovies.is.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/f/f6/Homebound_%282025_film%29.jpg"
+  },
+  {
+    "name" : "Commando 2: The Black Money Trail",
+    "url" : "https://archive.org/download/commando-2-the-black-money-trail/Commando%202.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/6/60/Commando-2_Poster.jpg"
+  },
+  {
     "name" : "Chhaava ( 2025) ",
     "url" : "https://archive.org/download/chhaava-2025-hindi-net-flix-web-dl-1080p-mkv-films.-site/Chhaava%20%282025%29%20Hindi%20NetFlix%20WEB-DL%201080p%20%5BMkvFilms.Site%5D.mp4",
     "logo" : "https://upload.wikimedia.org/wikipedia/en/7/75/Chhaava_film_poster.jpg"
   },
-  { "name" : "Sunny Deol Movie Collection",
-    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Sunny%20Deol%20Movie%20Collection.m3u"
+  {
+    "name" : "Mahavatar Narsimha ( 2025) Hindi Animation Movie",
+    "url" : "https://archive.org/download/mahavatar-narsimha-2025-hindi-animation-movie-hqcam-480p/Mahavatar%20Narsimha%20%282025%29%20Hindi%20Animation%20Movie%20%20HQCam%20480p.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/4/45/Mahavatar_Narsimha_film_poster.jpg"
   },
   {
-    "name" : "Dharmendra Film collection",
-    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/movies.m3u"
+    "name" : "Kesari Chapter 1",
+    "url" : "https://archive.org/download/kesari-hindi-patriotic-movie/Kesari%20Hindi%20Patriotic%20Movie.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/c/c4/Kesari_poster.jpg"
   },
   {
-    "name" : "Bollywood Movies Collection",
-    "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Bollywood%20Movies%20Collection.m3u"
+    "name" : "Raid 2 Hindi movie",
+    "url" : "https://archive.org/download/raid-2.2025.720p.-hevc.-hindi.-ds-4-k.-web-dl.-5.1.-esub.x-265-hdhub-4u.-ms/Raid-2.2025.720p.HEVC.Hindi.DS4K.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/8/82/Raid_2_poster.jpg"
   },
+  {
+    "name" : "Mastiii 4 2025 Hindi Full Movie ",
+    "url" : "https://archive.org/download/mastiii-4-2025-hindi-full-movie-480p-hdts-filmywap.mov/Mastiii_4_2025_Hindi_Full_Movie_480p_HDTS-%28Filmywap.mov%29.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/9/99/Mastiii_4_poster.jpg"
+  },
+ {
+   "name" : "KGF Chapter 2 ( 2022) South Indian Hindi Dubbed",
+   "url" : "https://archive.org/download/kgf-chapter-2-2022-south-indian/KGF_Chapter_2_%282022%29_South_Indian_Hindi_Dubbed_Movie_Web-DL%20%281%29.mp4",
+   "logo" : "https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg"
+ },
+ {
+   "name" : "Saiyaara 2025 Hindi Full Movie",
+   "url" : "https://archive.org/download/saiyaara-2025-hindi-full-movie-480p-web-dl-filmywap.mov/Saiyaara_2025_Hindi_Full_Movie_480p_WEB-DL-%28Filmywap.mov%29.mp4",
+   "logo" : "https://upload.wikimedia.org/wikipedia/en/d/db/Saiyaara_film_poster.jpg"
+ },
+ {
+   "name" : "Stree",
+   "url" : "https://archive.org/download/Stree2018ReworkEnglishSinhalaSub/Stree.2018.EN%2BSI_ESub.1080p.HDTV.x264.AAC2.0-ColomboGMGS2.mp4",
+   "logo" : "https://upload.wikimedia.org/wikipedia/hi/8/82/Stree_film_poster.jpeg"
+ },
+ {
+   "name" : "Badla. 2019",
+   "url" : "https://archive.org/download/badla.-2019.1080p.-webrip.x-264.-aac-5.1-yts.-mx_202406/Badla.2019.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4",
+   "logo" : "https://upload.wikimedia.org/wikipedia/en/0/0c/Badla_poster.jpg"
+   
+ },
 
 
 
