@@ -15,6 +15,14 @@
     "title": "New Movie Added!",
     "message": "Pathaan is now streaming. Watch now!",
     "image": "https://img.icons8.com/color/480/cinema-.png"
+  },
+
+  "update": {
+    "version_code": 2,
+    "force_update": false,
+    "title": "New Version Available!",
+    "message": "New features added via GitHub. Update now for better performance.",
+    "url": "https://your-download-link.com/app-release.apk"
   }
   
 }
