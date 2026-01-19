@@ -11,14 +11,14 @@
     "use_webview": false
   },
   "notification": {
-    "id": 2, 
+    "id": 3, 
     "title": "New Movie Added!",
     "message": "Pathaan is now streaming. Watch now!",
     "image": "https://img.icons8.com/color/480/cinema-.png"
   },
 
   "update": {
-    "version_code": 3,
+    "version_code": 1,
     "force_update": false,
     "title": "New Version Available!",
     "message": "New features added via GitHub. Update now for better performance.",
