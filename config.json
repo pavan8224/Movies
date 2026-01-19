@@ -9,5 +9,12 @@
     "rapid_api_host": "terabox-downloader-direct-download-link-generator.p.rapidapi.com",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "use_webview": false
+  },
+  "notification": {
+    "id": 1, 
+    "title": "New Movie Added!",
+    "message": "Pathaan is now streaming. Watch now!",
+    "image": "https://img.icons8.com/color/480/cinema-.png"
   }
+  
 }
