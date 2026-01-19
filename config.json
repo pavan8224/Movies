@@ -18,7 +18,7 @@
   },
 
   "update": {
-    "version_code": 2,
+    "version_code": 3,
     "force_update": false,
     "title": "New Version Available!",
     "message": "New features added via GitHub. Update now for better performance.",
