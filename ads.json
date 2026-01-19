@@ -4,8 +4,8 @@
 
   "interstitial_interval": 3,
 
-  "show_banner": false,
-  "show_interstitial": false,
+  "show_banner": true,
+  "show_interstitial": true,
   "show_rewarded": true,
-  "show_return_ad": false
+  "show_return_ad": true
 }
