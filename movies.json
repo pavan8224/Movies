@@ -1,5 +1,55 @@
 [
   {
+    "name" : "Housefull 5 ",
+    "url" : "https://archive.org/download/h-0-usefull.-5-a.-1080p.-hchd.-desire-movies.-my/H0USEFUll.5A.1080p.HCHD.DesireMovies.MY.mkv",
+    "logo" : "https://upload.wikimedia.org/wikipedia/hi/e/ec/Housefull_5.jpg"
+  },
+  {
+    "name" : "Kesari Chapter 2 (2025)",
+    "url" : "https://archive.org/download/kesari.-chapter.-2.-2025/Kesari.Chapter.2.%282025%29.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/9/95/Kesari_Chapter_2.jpg"
+  },
+  {
+    "name" : "Azaad (2025)",
+    "url" : "https://archive.org/download/azaad.-2025-hindi-bingehub.fun-1080p-web-dl/Azaad.2025%20Hindi%20bingehub.fun%201080p%20WEB-DL.mkv",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/e/ed/Azaa_film_poster.jpg"
+  },
+  {
+    "name" : "Emergency (2025)",
+    "url" : "https://archive.org/download/emergency-2025-hindi-hd-720p/Emergency%20%282025%29%20Hindi%20HD%20720p.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/3/32/Emergency_movie_poster.jpg"
+  },
+  {
+    "name" : "Crakk. Jeetegaa. Toh. Jiyegaa. 2024",
+    "url" : "https://archive.org/download/crakk.-jeetegaa.-toh.-jiyegaa.-2024.-web-dl/Crakk.Jeetegaa.Toh.Jiyegaa.2024.Web-Dl.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/d/db/Crakk_film_poster.jpg"
+  },
+  {
+    "name" : "Jolly LLB 3",
+    "url" : "https://archive.org/download/jolly-llb-3-4-k-2025/Jolly%20LLB%203%204K%202025.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/1/1d/Jolly_LLB_3_poster.jpg"
+  },
+  {
+    "name" : "Deva (2025)",
+    "url" : "https://archive.org/download/deva.-2025.720p.-hevc.-hindi.-ds-4-k.-web-dl.-5.1.-hc-esub.x-265-hdhub-4u.-tv/DEVA.2025.720p.HEVC.Hindi.DS4K.WEB-DL.5.1.HC-ESub.x265-HDHub4u.Tv.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/hi/8/8d/Deva_2025_film_poster.jpg"
+  },
+  {
+    "name" : "Auron Mein Kahan Dum Tha",
+    "url" : "https://archive.org/download/auron.-mein.-kahan.-dum.-tha.-2024.-hd-rip/Auron.Mein.Kahan.Dum.Tha.2024.HdRip.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/c/cb/Auron_Mein_Kahan_Dum_Tha_poster.jpg"
+  },
+  {
+    "name" : "Yodha ",
+    "url" : "https://archive.org/download/yodha_202503/Yodha.mp4",
+    "logo" : "https://upload.wikimedia.org/wikipedia/en/3/38/Yodha_film_poster.jpg"
+  },
+  {
+    "name" : "Vedaa ",
+    "url" : "https://archive.org/download/Vedaa/Vedaa.mp4",
+    "logo" : "https://emmay.com/wp-content/uploads/2024/05/Vedaa-poster2v.webp"
+  },
+  {
     "name" : "Son Of Sardaar 2 (2025)",
     "url" : "https://archive.org/download/son-of-sardaar-2-4-k-2025/Son%20of%20Sardaar%202%201080p%202025.mp4",
     "logo" : "https://upload.wikimedia.org/wikipedia/en/4/41/Son_of_Sardaar_2_film_poster.jpg"
@@ -9,11 +59,6 @@
   "url" : "https://archive.org/download/sam.-bahadur.-2023.720p.-webrip.x-264-worldfree-4u.-cool.-hindi.-aac.-esub/Sam.Bahadur.2023.720p.WEBRip.x264-%5BWorldfree4u.Cool%5D.%5BHindi%5D.AAC.ESub.mp4",
   "logo" : "https://upload.wikimedia.org/wikipedia/en/5/58/Sam_Bahadur_film_poster.jpg"
   
-},
-{
-  "name" : "Sarfarosh - सरफ़रोश HD",
-  "url" : "https://archive.org/download/sarfarosh-1999/Sarfarosh%201999.mp4",
-  "logo" : "https://upload.wikimedia.org/wikipedia/en/c/c6/Sarfarosh_poster.jpg"
 },
 {
   "name" : "Stree 2",
@@ -41,7 +86,7 @@
   "logo" : "https://upload.wikimedia.org/wikipedia/en/0/06/120_Bahadur.jpg"
 },
 {
-  "name" : "Thamma (2028)",
+  "name" : "Thamma (2025)",
   "url" : "https://archive.org/download/thamma.-2025.1080p.-hindi.-web-dl.-5.1.-esub.x-264-hdhub-4u.-ms/Thamma.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mp4",
   "logo" : "https://upload.wikimedia.org/wikipedia/en/4/4e/Thamma_film_poster.jpg"
 },
@@ -59,13 +104,6 @@
     "url": "https://archive.org/download/raw-beast-2022-south-hindi-dubbed-full-movie-original-hevc-1080p/Raw%20%28Beast%29%202022%20South%20Hindi%20Dubbed%20Full%20Movie%20Original%20HEVC%201080p.mp4",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3d/Beast_2022_Indian_poster.jpg",
     "category": "Action"
-  },
-  {
-    "type": "video",
-  "name": "Sholay (1975)",
-  "url": "https://archive.org/download/sholay-1975-english-subtitles/Sholay%20%281975%29%20English%20Subtitles.mp4",
-  "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg",
-  "category": "Bollywood Classic"
   },
   {
     "name": "Bhaiyya Ji (भैया जी ) ",
@@ -244,11 +282,19 @@
 
 
 
+{
+  "name" : "Sarfarosh - सरफ़रोश HD",
+  "url" : "https://archive.org/download/sarfarosh-1999/Sarfarosh%201999.mp4",
+  "logo" : "https://upload.wikimedia.org/wikipedia/en/c/c6/Sarfarosh_poster.jpg"
+},
 
-
-
-
-
+  {
+    "type": "video",
+  "name": "Sholay (1975)",
+  "url": "https://archive.org/download/sholay-1975-english-subtitles/Sholay%20%281975%29%20English%20Subtitles.mp4",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg",
+  "category": "Bollywood Classic"
+  },
 
   { "name" : "Sunny Deol Movie Collection",
     "url" : "https://raw.githubusercontent.com/pavan8224/Movies/refs/heads/main/Sunny%20Deol%20Movie%20Collection.m3u"
