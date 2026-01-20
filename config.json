@@ -1,8 +1,8 @@
 {
   "ads_config": {
     "ads_enabled": true,
-    "primary_network": "unity",
-    "secondary_network": "startapp",
+    "primary_network": "startapp",
+    "secondary_network": "unity",
     "ad_interval_minutes": 5,
     "show_banner": true,
     "show_interstitial": true,
