@@ -1,28 +1,40 @@
 {
-  "youtube": {
-    "api_url": "https://pipedapi.kavin.rocks",
-    "backup_api_url": "https://api.kavin.rocks",
-    "enable_webview_fallback": true
+  "ads_config": {
+    "ads_enabled": true,
+    "primary_network": "unity",
+    "secondary_network": "startapp",
+    "ad_interval_minutes": 5,
+    "show_banner": true,
+    "show_interstitial": true,
+    "show_rewarded": true
   },
-  "terabox": {
-    "rapid_api_key": "YOUR_RAPID_API_KEY_HERE",
-    "rapid_api_host": "terabox-downloader-direct-download-link-generator.p.rapidapi.com",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "use_webview": false
+  "ids": {
+    "unity_game_id": "6028813",
+    "unity_interstitial_id": "Interstitial_Android",
+    "unity_banner_id": "Banner_Android",
+    "unity_rewarded_id": "Rewarded_Android",
+    
+    "startapp_id": "200457625"
+  },
+  "update_config": {
+    "latest_version_code": 1,
+    "force_update": false,
+    "update_title": "New Update Available!",
+    "update_message": "Please update the app to enjoy new features.",
+    "apk_url": "https://example.com/app.apk"
   },
   "notification": {
-    "id": 3, 
-    "title": "New Movie Added!",
-    "message": "Pathaan is now streaming. Watch now!",
-    "image": "https://img.icons8.com/color/480/cinema-.png"
+    "id": 1,
+    "title": "Welcome to Desi Streamer",
+    "message": "Enjoy free movies and live TV channels!"
   },
-
-  "update": {
-    "version_code": 1,
-    "force_update": false,
-    "title": "New Version Available!",
-    "message": "New features added via GitHub. Update now for better performance.",
-    "url": "https://github.com/pavan8224/MusicBeats/releases/download/V1/Desi.Streamer.apk"
+  "youtube_config": {
+    "api_key": "",
+    "webview_fallback": true
+  },
+  "terabox_config": {
+    "webview_only": true,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "api_key": ""
   }
-  
 }
