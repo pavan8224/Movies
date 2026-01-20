@@ -1,11 +1,31 @@
 {
-  "startapp_id": "200457625",
-  "ads_enabled": true,
-
-  "interstitial_interval": 3,
-
-  "show_banner": true,
-  "show_interstitial": true,
-  "show_rewarded": true,
-  "show_return_ad": true
+  "ads_config": {
+    "ads_enabled": true,
+    "primary_network": "unity",
+    "secondary_network": "startapp",
+    "ad_interval_minutes": 5,
+    "show_banner": true,
+    "show_interstitial": true,
+    "show_rewarded": true
+  },
+  "ids": {
+    "unity_game_id": "6028813",
+    "unity_interstitial_id": "Interstitial_Android",
+    "unity_banner_id": "Banner_Android",
+    "unity_rewarded_id": "Rewarded_Android", 
+    
+    "startapp_id": "YOUR_STARTAPP_ID_HERE" 
+  },
+  "update_config": {
+    "latest_version_code": 1,
+    "force_update": false,
+    "update_title": "New Update Available!",
+    "update_message": "Please update the app to watch new movies.",
+    "apk_url": "https://example.com/app.apk"
+  },
+  "notification": {
+    "id": 1,
+    "title": "Welcome to Desi Streamer",
+    "message": "Watch latest movies and live TV for free!"
+  }
 }
