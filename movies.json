@@ -4,6 +4,13 @@
      "url" : "https://archive.org/download/border-2-2026-hindi-hdtc-1080p-x-264-aac-cine-vood/Border%202%202026%20Hindi%20HDTC%201080p%20x264%20AAC%20CineVood.mkv",
      "logo" :"https://upload.wikimedia.org/wikipedia/en/2/26/Border_2_Poster.jpg"
    },
+   {
+    "type": "video",
+    "name": "Tere Ishq Mein",
+    "url": "https://archive.org/download/tere_ishk_mein_2025/tere_ishk_mein_2025.mkv",
+    "logo": "https://upload.wikimedia.org/wikipedia/hi/5/5c/Tere_Ishk_Mein_film_poster.jpg",
+    "category": "Trending"
+  },
   {
     "name" : "Sikandar (2025)",
     "url" : "https://archive.org/download/sikandar-2025-hindi-pre-hd-720p-givefastlink/sikandar-2025-hindi-pre-hd-720p-givefastlink.mp4",
