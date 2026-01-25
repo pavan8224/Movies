@@ -3,7 +3,7 @@
     "ads_enabled": true,
     "primary_network": "unity",
     "secondary_network": "startapp",
-    "ad_interval_minutes": 5,
+    "ad_interval_minutes": 3,
     "show_banner": true,
     "show_interstitial": true,
     "show_rewarded": true
