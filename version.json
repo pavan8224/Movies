@@ -1,6 +1,13 @@
 {
   "version": "1.0.0",
   "min_version": "1.0.0",
-  "url": "https://github.com/pavan8224/Movies/releases/download/V1/app-arm64-v8a-release-13.apk",
-  "massage": "pavan Kushwah"
+  "url": "https://github.com/pavan8224/Movies/raw/main/playflix_new.apk",
+  "message": "Naye features add ho gaye hain!",
+  "ads_config": {
+    "primary_network": "applovin", 
+    "show_rewarded": true,
+    "show_interstitial": true,
+    "interstitial_interval_min": 10,
+    "clicks_before_ad": 2
+  }
 }
